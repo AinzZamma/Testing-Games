@@ -1,0 +1,20 @@
+
+# Ignore Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+Build/
+.vs/
+.vscode/
+.idea/
+
+# Ignore other generated files
+*.user
+*.userprefs
+*.suo
+*.swp
+*.sln
+*.suo
+*.temp
